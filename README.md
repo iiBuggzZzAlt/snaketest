@@ -5,8 +5,8 @@ window.snake.more_menu = function(e) {
   // micro
   let img = new Image;
   img.src = 'https://pbs.twimg.com/profile_images/1768227764/image_400x400.jpg';
-  img.width = 47;
-  img.height = 47;
+  img.width = 400;
+  img.height = 400;
   document.querySelector('#size').appendChild(img);
 
   // tiny
